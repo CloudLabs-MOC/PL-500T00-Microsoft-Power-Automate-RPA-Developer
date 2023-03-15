@@ -1,0 +1,41 @@
+[
+  {
+    "Name": "",
+    "Language": "English",
+    "BaseURL": "PL-500: Microsoft Power Automate RPA Developer",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/PL-500T00-Microsoft-Power-Automate-RPA-Developer/master/Instructions/L00/Lab00_Setup_Environment.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/PL-500T00-Microsoft-Power-Automate-RPA-Developer/master/Instructions/L01/Lab01_Design_Solution.md",
+        "Order": 2
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/PL-500T00-Microsoft-Power-Automate-RPA-Developer/master/Instructions/L02/Lab02_Build_Desktop_Flow.md",
+        "Order": 3
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/PL-500T00-Microsoft-Power-Automate-RPA-Developer/master/Instructions/L03/Lab03_Use_Desktop_Flow_from_Cloud_Flow.md",
+        "Order": 4
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/PL-500T00-Microsoft-Power-Automate-RPA-Developer/master/Instructions/L04/Lab04_Custom_Connectors.md",
+        "Order": 5
+      },      
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/PL-500T00-Microsoft-Power-Automate-RPA-Developer/master/Instructions/L05/Lab05_Integrate_AI.md",
+        "Order": 6
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/PL-500T00-Microsoft-Power-Automate-RPA-Developer/master/Instructions/L06/Lab06_Troubleshooting.md",
+        "Order": 7
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/PL-500T00-Microsoft-Power-Automate-RPA-Developer/master/Instructions/L07/Lab07_Deploy_Solution.md",
+        "Order": 8
+      }
+    ]
+  }
+]
