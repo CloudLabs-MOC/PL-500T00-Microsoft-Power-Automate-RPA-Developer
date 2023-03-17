@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Integrate AI",
+    "Language": "English",
+    "BaseURL": "https://github.com/MicrosoftLearning/PL-500T00-Microsoft-Power-Automate-RPA-Developer",
+    "Files": [
+	    {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/PL-500T00-Microsoft-Power-Automate-RPA-Developer/azure-pass/Instructions/LabIntro.md",
+        "Order": 1
+      },
+	    {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/PL-500T00-Microsoft-Power-Automate-RPA-Developer/master/Instructions/L05/Lab05_Integrate_AI.md",
+        "Order": 2
+      } 
+    ]
+  }
+]
