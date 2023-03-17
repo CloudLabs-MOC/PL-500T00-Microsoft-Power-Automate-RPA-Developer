@@ -1,1 +1,17 @@
-
+[
+  {
+    "Name": "Design Solution",
+    "Language": "English",
+    "BaseURL": "https://github.com/MicrosoftLearning/PL-500T00-Microsoft-Power-Automate-RPA-Developer",
+    "Files": [
+	    {
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/PL-500T00-Microsoft-Power-Automate-RPA-Developer/azure-pass/Instructions/LabIntro.md",
+        "Order": 1
+      },
+	    {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/PL-500T00-Microsoft-Power-Automate-RPA-Developer/master/Instructions/L01/Lab01_Design_Solution.md",
+        "Order": 2
+      } 
+    ]
+  }
+]
